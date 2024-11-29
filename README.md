@@ -1,4 +1,4 @@
- 👋 Hi, I’m NGUYEN NGOC Y
+ 👋 Hi, I’m NGUYEN THI NGOC Y
  
 <!---
 ngocy02/ngocy02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
